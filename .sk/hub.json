@@ -1,0 +1,136 @@
+{
+  "titulo": "meuchat-pc (2) (5)",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/ferramentas/analisador-v2.html",
+      "nome": "Analisador Local de Projetos — V2",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/analisador.html",
+      "nome": "Analisador de Projetos",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/caca-sql.html",
+      "nome": "🔍 Caça Esquema SQL",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/cofre-config.html",
+      "nome": "⚖️ Cofre de Configurações",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/colecionador-codigo.html",
+      "nome": "Colecionador de Código",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/comandos-termux.html",
+      "nome": "📦 Banco de Comandos Termux",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/conversor-imagem.html",
+      "nome": "Conversor de Imagem Econômico",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/desmontador-backup.html",
+      "nome": "Restaurador Universal",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/detector-api.html",
+      "nome": "Detector e Corretor de API",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/divisor-html.html",
+      "nome": "Divisor de HTML",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/juntador.html",
+      "nome": "Juntador de Projetos HTML",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/leitor-universal.html",
+      "nome": "📂 Leitor Universal de Arquivos",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/monica-guia.html",
+      "nome": "API Monica — Guia Visual",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/monica-passo.html",
+      "nome": "Guia Monica API - Passo a Passo",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/montador-modulos.html",
+      "nome": "🧩 Montador de Módulos — PWA Jurídico",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/ferramentas/procurar-substituir.html",
+      "nome": "Procurar e Substituir",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "app/index.html",
+      "nome": "Meu Chat",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon.svg"
+    },
+    {
+      "path": "electron/navegador.html",
+      "nome": "🌐 Navegador — Mini SK",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "dourado",
+  "links": []
+}
